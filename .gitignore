@@ -1,0 +1,12 @@
+# Fichiers et dossiers spécifiques à Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnement virtuel
+/venv
+
+# Configurations d'éditeur
+.vscode/
+.idea/
+*.swp
