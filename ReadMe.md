@@ -102,3 +102,8 @@ Note : Ce projet est destiné à des fins académiques et non à des usages comm
  Des tests supplémentaires peuvent être réalisés en utilisant des images de différents styles pour vérifier la robustesse du modèle.
 
 
+
+
+ lien : https://github.com/jeandirel/cartoon_image.git
+
+
