@@ -50,7 +50,7 @@ pip install tensorflow scikitlearn opencvpython matplotlib
 
 ## Entraînement
 
-1. Préparez vos données : Placez vos données d'entraînement et de test dans le répertoire `final_dataset/` en suivant la structure fournie. Assurezvous d'avoir un ensemble d'images réelles et d'images cartoonisées correspondantes pour l'entraînement.
+1. Préparez les données : Placez les données d'entraînement et de test dans le répertoire `final_dataset/` en suivant la structure fournie. Avoir un ensemble d'images réelles et d'images cartoonisées correspondantes pour l'entraînement.
 2. Exécutez le script d'entraînement :
    bash
    python train_pix2pix.py
