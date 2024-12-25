@@ -106,4 +106,6 @@ Note : Ce projet est destiné à des fins académiques et non à des usages comm
 
  lien : https://github.com/jeandirel/cartoon_image.git
 
+ lien google dirive pour le models et le dataset : https://drive.google.com/drive/folders/1h1Zw8vcFVknKvR5eC1BYdNfb0bIxub3K?usp=drive_link
+
 
