@@ -50,4 +50,4 @@ def test_image(image_path, model_path):
     plt.show()  # Afficher la figure avec les deux images
 
 # Exemple d'utilisation
-test_image("2.jpg", "pix2pix_generator_epoch_90.h5")
+test_image("2.jpg", "models/pix2pix_generator_epoch_100.h5")
